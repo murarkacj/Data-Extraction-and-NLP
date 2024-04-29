@@ -1,0 +1,8 @@
+1. Open Python Terminal
+2. Navigate to the folder name ChaitanyaMurarka_Blackcoffer by : cd {folder path}
+3. Run the command : pip install -r requirements.txt
+4. Run the command : python code.py
+5. If there is issue related to nltk try running following command: 
+   import nltk
+   nltk.download('cmudict')
+   nltk.download('stopwords')
